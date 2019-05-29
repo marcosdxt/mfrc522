@@ -1,2 +1,6 @@
 # mfrc522
-Port da biblioteca mfrc arduino para ansi c 
+
+  Port of Arduino library to ANSI C.
+  Need refactor the code...
+
+
